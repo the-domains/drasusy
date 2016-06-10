@@ -1,0 +1,14 @@
+layout_spectrum: 0.49182588793337345
+typography_spectrum: 0.7267195116728544
+color:
+  brandStrength: 0.8083360488526523
+  lightness: 0.46827277820557356
+  saturation: 0.9811846311204135
+  rhythmicContrast: 0.6357187237590551
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: drasusy
